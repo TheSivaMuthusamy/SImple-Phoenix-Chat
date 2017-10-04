@@ -2,7 +2,7 @@
 
 Extremely basic chat application built with the Phoenix Framework.
 
-#Getting Started
+# Getting Started
 
   * Install dependencies with `mix deps.get`
   * Create and migrate your database with `mix ecto.create && mix ecto.migrate`
